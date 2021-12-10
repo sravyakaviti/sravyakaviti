@@ -1,4 +1,4 @@
-<img style="margin-right:40%;" src="https://thumbs.dreamstime.com/b/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg" width="400px" height="400px">
+<p align="center" width="100%"><img src="https://thumbs.dreamstime.com/b/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg" width="400px" height="400px"> </p>
 
 <h1 align="center">Hi 👋, I'm Sravya Kaviti</h1>
 <h3 align="center">An Enthusiast</h3>
