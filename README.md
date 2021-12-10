@@ -1,6 +1,4 @@
-<a href="https://thumbs.dreamstime.com/b/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg" style="width:25%,height:25%;"></a>
-
-
+![This is an image](https://thumbs.dreamstime.com/b/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg {width=40px height=400px})
 
 
 # Hi👋 , I’m sravyakaviti
