@@ -5,7 +5,7 @@
 
 
 # Hi👋 , I’m sravyakaviti
--👀 I’m interested in coding
+-**👀 I’m interested in coding**
 <br>
--An Enthusiast
+-**An Enthusiast**
 
